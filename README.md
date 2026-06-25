@@ -1,17 +1,9 @@
-# CodeAlpha_WebScraping
-# CodeAlpha Web Scraping
+## Task 2 - Exploratory Data Analysis
 
-## Objective
-Extract book information from a website using Python.
-
-## Tools Used
-- Python
-- Requests
-- BeautifulSoup
-- Pandas
-
-## Dataset
-100 books collected from BooksToScrape website.
-
-## Output
-Data saved in books_data.csv
+Performed analysis on the scraped books dataset:
+- Dataset overview
+- Dataset information
+- Price statistics
+- Highest priced book
+- Lowest priced book
+- Rating distribution
