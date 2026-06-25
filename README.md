@@ -1,9 +1,10 @@
-## Task 2 - Exploratory Data Analysis
+## Task 3 - Data Visualization
 
-Performed analysis on the scraped books dataset:
-- Dataset overview
-- Dataset information
-- Price statistics
-- Highest priced book
-- Lowest priced book
-- Rating distribution
+Created visual representations of the dataset:
+- Rating Distribution Bar Chart
+- Price Distribution Histogram
+- Top 10 Most Expensive Books Chart
+
+Tools Used:
+- Matplotlib
+- Pandas
